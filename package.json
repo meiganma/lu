@@ -1,15 +1,14 @@
 {
-  "name": "planetary-parsec",
-  "type": "module",
-  "version": "0.0.1",
+  "name": "zany-zero1",
+  "version": "1.0.0",
+  "description": "satrolulu",
+  "main": "index.js",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "astro": "^4.9.1"
-  }
+  "keywords": [
+    "lu"
+  ],
+  "author": "lu",
+  "license": "ISC"
 }
